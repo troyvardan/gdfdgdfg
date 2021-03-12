@@ -1,0 +1,3 @@
+To setup the bot, read the installation guide covered by NutSoGreat!
+
+https://nutsogreat.gitbook.io/ultimate-bot-tutorial/

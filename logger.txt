@@ -1,0 +1,102 @@
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+✔ Finished successfully!
+[√] Event BadWords.js has been successfully loaded!
+[√] Event ChannelCreate.js has been successfully loaded!
+[√] Event ChannelDelete.js has been successfully loaded!
+[√] Event ChannelUpdate.js has been successfully loaded!
+[√] Event LinkUpdate.js has been successfully loaded!
+[√] Event Links.js has been successfully loaded!
+[√] Event Message.js has been successfully loaded!
+[√] Event MessageDelete.js has been successfully loaded!
+[√] Event MessageUpdate.js has been successfully loaded!
+[√] Event Ready.js has been successfully loaded!
+[√] Event RoleCreate.js has been successfully loaded!
+[√] Event RoleDelete.js has been successfully loaded!
+[√] Event RoleUpdate.js has been successfully loaded!
+[√] Event guildMemberAdd.js has been successfully loaded!
+[√] Event guildMemberRemove.js has been successfully loaded!
+[√] Event guildMemberUpdate.js has been successfully loaded!
+[√] Event guildUpdate.js has been successfully loaded!
+[√] Event messageReactionAdd.js has been successfully loaded!
+[√] Event voiceStateUpdate.js has been successfully loaded!
+[√] Command 8ball has been successfully loaded!
+[√] Command ascii has been successfully loaded!
+[√] Command avatar has been successfully loaded!
+[√] Command coinflip has been successfully loaded!
+[√] Command dadjoke has been successfully loaded!
+[√] Command darkjoke has been successfully loaded!
+[√] Command devjoke has been successfully loaded!
+[√] Command meme has been successfully loaded!
+[√] Command rps has been successfully loaded!
+[√] Command help has been successfully loaded!
+[√] Command ping has been successfully loaded!
+[√] Command rank has been successfully loaded!
+[√] Command roleinfo has been successfully loaded!
+[√] Command serverinfo has been successfully loaded!
+[√] Command snipe has been successfully loaded!
+[√] Command whois has been successfully loaded!
+[√] Command announce has been successfully loaded!
+[√] Command ban has been successfully loaded!
+[√] Command clear has been successfully loaded!
+[√] Command closedm has been successfully loaded!
+[√] Command dm has been successfully loaded!
+[√] Command embed has been successfully loaded!
+[√] Command kick has been successfully loaded!
+[√] Command lock has been successfully loaded!
+[√] Command lockserver has been successfully loaded!
+[√] Command mute has been successfully loaded!
+[√] Command poll has been successfully loaded!
+[√] Command say has been successfully loaded!
+[√] Command sayem has been successfully loaded!
+[√] Command set-status has been successfully loaded!
+[√] Command timer has been successfully loaded!
+[√] Command unban has been successfully loaded!
+[√] Command unlock has been successfully loaded!
+[√] Command unwarn has been successfully loaded!
+[√] Command warn has been successfully loaded!
+[√] Command giveaway has been successfully loaded!
+[√] Command report has been successfully loaded!
+[√] Command reroll has been successfully loaded!
+[√] Command suggest has been successfully loaded!
+[√] Command verify has been successfully loaded!
+[√] Command add has been successfully loaded!
+[√] Command claim has been successfully loaded!
+[√] Command close has been successfully loaded!
+[√] Command remove has been successfully loaded!
+[√] Command rename has been successfully loaded!
+[√] Command ticket has been successfully loaded!
+[√] Command unclaim has been successfully loaded!
+[√] Command eval has been successfully loaded!
+[√] Command afk has been successfully loaded!
+[❌] Command clip.js failed to load: Command missing config
+[❌] Command clips.js failed to load: Command missing config
+[❌] Command help.js failed to load: Command missing config
+[❌] Command invite.js failed to load: Command missing config
+[❌] Command loop.js failed to load: Command missing config
+[❌] Command lyrics.js failed to load: Command missing config
+[❌] Command move.js failed to load: Command missing config
+[❌] Command nowplaying.js failed to load: Command missing config
+[❌] Command pause.js failed to load: Command missing config
+[❌] Command ping.js failed to load: Command missing config
+[❌] Command play.js failed to load: Command missing config
+[❌] Command playlist.js failed to load: Command missing config
+[❌] Command pruning.js failed to load: Command missing config
+[❌] Command queue.js failed to load: Command missing config
+[❌] Command remove.js failed to load: Command missing config
+[❌] Command resume.js failed to load: Command missing config
+[❌] Command search.js failed to load: Command missing config
+[❌] Command shuffle.js failed to load: Command missing config
+[❌] Command skip.js failed to load: Command missing config
+[❌] Command skipto.js failed to load: Command missing config
+[❌] Command stop.js failed to load: Command missing config
+[❌] Command uptime.js failed to load: Command missing config
+[❌] Command volume.js failed to load: Command missing config
+[√] Command listing has been successfully loaded!
+[√] Command listpack has been successfully loaded!
+[√] Command listvehicle has been successfully loaded!
+Logged in as Crude Rude and Nude#2426!
+[Info] Crude Rude and Nude has been successfully logged in!
